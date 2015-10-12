@@ -1,2 +1,2 @@
-# RatingWidgetAPIConsumer
-Rating widget API  consumer in C#
+# RatingWidget C# SDK
+Non-Official RatingWidget C# SDK created by (https://github.com/PabloGim)[Pablo Gimenez]
